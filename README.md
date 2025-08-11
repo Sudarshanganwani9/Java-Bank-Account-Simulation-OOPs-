@@ -18,6 +18,11 @@ Simulates basic banking operations using Java OOP principles.
 - Method Overriding
 - Encapsulation
 
+# Project structure 
+BankAccountSimulation/
+│── BankAccountSimulation.java
+└── README.md
+
 ## How to Run
 1. Save the `BankAccountSimulation.java` file.
 2. Compile:
